@@ -33,6 +33,6 @@ ATP v0.1 intentionally leaves many concerns unresolved.
 
 The protocol defines only the minimal primitives required for signed task exchange between agents:
 
-TASK → RESULT → ERROR
+TASK → RESULT | ERROR
 
 Higher-level concerns such as discovery, reputation, economics, and governance are deliberately excluded from the base protocol. These concerns may emerge as separate layers if usage requires them.
