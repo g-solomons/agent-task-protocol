@@ -26,3 +26,13 @@ python examples/inspect_history.py data/alpha_history.jsonl
 ATP is intended to operate within a broader Agent Coordination Stack describing how autonomous agents may interact.
 
 See: AGENT_COORDINATION_STACK.md
+
+### Design Philosophy
+
+ATP v0.1 intentionally leaves many concerns unresolved.
+
+The protocol defines only the minimal primitives required for signed task exchange between agents:
+
+TASK → RESULT → ERROR
+
+Higher-level concerns such as discovery, reputation, economics, and governance are deliberately excluded from the base protocol. These may emerge as separate layers if real-world usage demands them.
