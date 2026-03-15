@@ -27,7 +27,7 @@ ATP is intended to operate within a broader Agent Coordination Stack describing 
 
 See: AGENT_COORDINATION_STACK.md
 
-### Design Philosophy
+## Design Philosophy
 
 ATP v0.1 intentionally leaves many concerns unresolved.
 
