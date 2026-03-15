@@ -10,6 +10,11 @@ ATP v0.1 establishes only three foundations:
 
 This repository contains the seed specification and a minimal Python reference implementation.
 
+## Core primitive
+
+TASK → RESULT | ERROR
+
+
 ## Quick Demo
 
 Terminal 1:
@@ -31,7 +36,7 @@ See: AGENT_COORDINATION_STACK.md
 
 ATP v0.1 intentionally leaves many concerns unresolved.
 
-The protocol defines only the minimal primitives required for signed task exchange between agents:
+The protocol defines only the minimal primitive required for signed task exchange between agents:
 
 TASK → RESULT | ERROR
 
