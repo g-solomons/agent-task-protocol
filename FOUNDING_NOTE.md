@@ -1,5 +1,13 @@
 # Founding Note
 
+Autonomous agents cooperate by performing work for one another.
+
+Tasks may therefore become the natural atomic unit of interaction.
+
+ATP expresses this interaction through a minimal primitive.
+
+
+
 The initial ATP concept, framing, and seed specification were proposed by
 
 Dr Gregory William Solomons
