@@ -11,6 +11,7 @@ ATP expresses this interaction through a minimal primitive.
 The initial ATP concept, framing, and seed specification were proposed by
 
 Dr Gregory William Solomons
+
 Sydney, Australia
 2026
 
