@@ -36,6 +36,8 @@ ATP is intended to operate within a broader Agent Coordination Stack describing 
 
 See: AGENT_COORDINATION_STACK.md
 
+ATP focuses on the minimal task exchange primitive and can coexist with broader agent interoperability frameworks.
+
 ## Design Philosophy
 
 ATP v0.1 intentionally leaves many concerns unresolved.
