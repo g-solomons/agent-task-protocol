@@ -14,6 +14,10 @@ This repository contains the seed specification and a minimal Python reference i
 
 TASK → RESULT | ERROR
 
+## Specification
+
+The formal protocol specification is defined in SPEC.md.
+
 
 ## Quick Demo
 
