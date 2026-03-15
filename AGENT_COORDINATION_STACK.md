@@ -1,6 +1,9 @@
 # Agent Coordination Stack Architecture
 
-Agent Coordination Stack
+## Specification
+The Agent Coordination Stack can be visualized as layered responsibilities:
+
+'''Agent Coordination Stack
 
 ┌─────────────────────────────────────────┐
 │        Economic / Incentive Layer       │
@@ -31,6 +34,6 @@ Agent Coordination Stack
 ┌─────────────────────────────────────────┐
 │             Identity Layer              │
 │   (cryptographic identity, signatures)  │
-└─────────────────────────────────────────┘
+└─────────────────────────────────────────┘'''
 
 ATP occupies the task exchange layer within the broader Agent Coordination Stack.
