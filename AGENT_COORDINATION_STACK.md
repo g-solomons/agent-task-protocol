@@ -18,7 +18,7 @@ Agent Coordination Stack
 ║          Task Exchange Layer            ║
 ║          Agent Task Protocol            ║
 ║                  (ATP)                  ║
-║        TASK → RESULT / ERROR            ║
+║        TASK → RESULT | ERROR            ║
 ╚═════════════════════════════════════════╝
                     ▲
                     │
