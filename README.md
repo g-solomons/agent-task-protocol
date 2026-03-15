@@ -35,4 +35,4 @@ The protocol defines only the minimal primitives required for signed task exchan
 
 TASK → RESULT → ERROR
 
-Higher-level concerns such as discovery, reputation, economics, and governance are deliberately excluded from the base protocol. These may emerge as separate layers if real-world usage demands them.
+Higher-level concerns such as discovery, reputation, economics, and governance are deliberately excluded from the base protocol. These concerns may emerge as separate layers if usage requires them.
