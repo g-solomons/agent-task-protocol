@@ -23,7 +23,7 @@ python examples/inspect_history.py data/alpha_history.jsonl
 
 ## Architecture Context
 
-ATP is intended to operate within a broader Agent Coordination Stack describing how autonomous agents may interact.
+ATP is intended to operate within a broader Agent Coordination Stack describing autonomous agent interaction.
 
 See: AGENT_COORDINATION_STACK.md
 
